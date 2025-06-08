@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Mateus Simões
+# 👨🏻‍💻 Mateus Simões
 
 **`Estudante de Desenvolvimento Web`**
 
