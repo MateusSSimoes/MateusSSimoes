@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento Web`**
 
-Me chamo Mateus Simões tenho 16 anos, sou de São Paulo - SP. Atualmente, estou cursando Desenvolvimento Web no IOS Jardim Ângela.
+e chamo Mateus Simões tenho 16 anos, sou de São Paulo - SP. Atualmente, estou cursando Desenvolvimento Web no IOS Jardim Ângela.
 Tenho muito gosto por tecnologia e estou sempre em busca de novos conhecimentos, com foco especial na área de FrontEnd e Desenvolvimento Web.
 
 
