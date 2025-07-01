@@ -49,7 +49,7 @@ Meu LinkedIn "[Mateus Simões](www.linkedin.com/in/mateus-simões-992204321)"
 ### 📊 Estatísticas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=MateusSSimoes&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=MateusSSimoes&custom_tittle=Estatísticas&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusSSimoes&show_icons=true&theme=omni&layout=compact&custom_tittle=Tecnologias&langs_count=3&card_width=270" />
