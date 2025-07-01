@@ -6,7 +6,7 @@ Me chamo Mateus Simões tenho 16 anos, sou de São Paulo - SP. Atualmente, estou
 Tenho muito gosto por tecnologia e estou sempre em busca de novos conhecimentos, com foco especial na área de FrontEnd e Desenvolvimento Web.
 
 
-Meu LinkedIn "[Mateus Simões](www.linkedin.com/in/mateus-simões-992204321)"
+Meu LinkedIn "[Mateus Simões](https://www.linkedin.com/in/mateus-simões-992204321/)"
 
 ### 🤖 Linguagens e Tecnologias
 <img 
